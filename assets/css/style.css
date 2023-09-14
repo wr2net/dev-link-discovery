@@ -154,6 +154,10 @@ footer {
     text-align: center;
 }
 
+footer a {
+    text-decoration: none;
+}
+
 /* media queries */
 @media (min-width: 700px) {
     :root {
